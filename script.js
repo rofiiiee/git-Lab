@@ -1,3 +1,3 @@
 function showMessage(){
-    alert("Hello from JavaScript!");
+    alert("Welcome to Version 2!");
 }

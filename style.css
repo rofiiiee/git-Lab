@@ -1,8 +1,9 @@
-body{
-   
-    text-align: center;
+button{
+    padding:10px 20px;
+    cursor:pointer;
 }
 
-h1{
-    color: blue;
+button:hover{
+    background:black;
+    color:white;
 }
