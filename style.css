@@ -1,9 +1,10 @@
-button{
-    padding:10px 20px;
-    cursor:pointer;
+h1{
+    color: blue;
+    animation: fade 2s infinite;
 }
 
-button:hover{
-    background:black;
-    color:white;
+@keyframes fade{
+    0%{opacity:0}
+    50%{opacity:1}
+    100%{opacity:0}
 }
